@@ -1,0 +1,186 @@
+[
+ {
+  "id": "v19vczv9",
+  "texto": "Oi! Eu sou o Léo, o treinador. Hoje você vai responder dez perguntas sobre as nossas brincadeiras e sobre o nosso corpo. Eu vou ler cada pergunta e cada resposta em voz alta, e você toca na resposta certa. Agora escreva o seu nome, escolha a sua turma e o seu personagem, e toque em começar!"
+ },
+ {
+  "id": "v1i3bhaj",
+  "texto": "Pergunta um. No pega-pega tubarão, o que acontece com quem é pego? Letra A: sai do jogo e vai sentar. Letra B: vira tubarão e ajuda a pegar. Letra C: ganha um ponto e foge."
+ },
+ {
+  "id": "v1r8ajs6",
+  "texto": "Pergunta dois. Que brincadeira é esta da figura? Letra A: amarelinha. Letra B: pião. Letra C: cabo de guerra."
+ },
+ {
+  "id": "v1sbqe6q",
+  "texto": "Pergunta três. Qual material a gente usa para pular? Letra A: o cone. Letra B: o apito. Letra C: a corda."
+ },
+ {
+  "id": "vptgjzz",
+  "texto": "Pergunta quatro. Que brincadeira é esta, em que dois times puxam a corda? Letra A: amarelinha. Letra B: cabo de guerra. Letra C: pião."
+ },
+ {
+  "id": "vy0pi8o",
+  "texto": "Pergunta cinco. Antes de correr e brincar, o que devemos fazer com o corpo? Letra A: comer um doce. Letra B: ficar sentado. Letra C: aquecer e alongar."
+ },
+ {
+  "id": "v1oan9z5",
+  "texto": "Pergunta seis. Para brincar bem com os amigos, o que a gente deve fazer? Letra A: ajudar e dividir com o colega. Letra B: empurrar os colegas. Letra C: xingar quem perde."
+ },
+ {
+  "id": "vp6mjbi",
+  "texto": "Pergunta sete. Para que serve o apito da professora na brincadeira? Letra A: para comer. Letra B: para dar o sinal e organizar a brincadeira. Letra C: para dormir."
+ },
+ {
+  "id": "v1pwlexb",
+  "texto": "Pergunta oito. No jogo UNO, a gente junta cartas da mesma cor. Com uma carta vermelha combina outra carta: Letra A: azul. Letra B: amarela. Letra C: vermelha."
+ },
+ {
+  "id": "v1s13ote",
+  "texto": "Pergunta nove. No coelhinho sai da toca, quando a professora apita, cada criança: Letra A: fica parada na mesma toca. Letra B: sai da sua toca e corre para outra. Letra C: senta no chão e espera."
+ },
+ {
+  "id": "v1wf2yjb",
+  "texto": "Pergunta dez, a última. Com qual parte do corpo a gente corre? Letra A: as pernas. Letra B: as mãos. Letra C: as orelhas."
+ },
+ {
+  "id": "vouvc84",
+  "texto": "Sai do jogo e vai sentar."
+ },
+ {
+  "id": "v16lhkfj",
+  "texto": "Vira tubarão e ajuda a pegar."
+ },
+ {
+  "id": "vk3e622",
+  "texto": "Ganha um ponto e foge."
+ },
+ {
+  "id": "vgfozb9",
+  "texto": "Amarelinha."
+ },
+ {
+  "id": "v3ur2ou",
+  "texto": "Pião."
+ },
+ {
+  "id": "vdwjtg7",
+  "texto": "Cabo de guerra."
+ },
+ {
+  "id": "v6cbmef",
+  "texto": "O cone."
+ },
+ {
+  "id": "v1tyfrun",
+  "texto": "O apito."
+ },
+ {
+  "id": "v1v64e5",
+  "texto": "A corda."
+ },
+ {
+  "id": "v1p658cm",
+  "texto": "Comer um doce."
+ },
+ {
+  "id": "vbkzzfq",
+  "texto": "Ficar sentado."
+ },
+ {
+  "id": "v11k8w82",
+  "texto": "Aquecer e alongar."
+ },
+ {
+  "id": "v1rc6qxf",
+  "texto": "Ajudar e dividir com o colega."
+ },
+ {
+  "id": "vj4fjnl",
+  "texto": "Empurrar os colegas."
+ },
+ {
+  "id": "vgo671g",
+  "texto": "Xingar quem perde."
+ },
+ {
+  "id": "v5a8wp9",
+  "texto": "Para comer."
+ },
+ {
+  "id": "v3drb3v",
+  "texto": "Para dar o sinal e organizar a brincadeira."
+ },
+ {
+  "id": "v1hsjllw",
+  "texto": "Para dormir."
+ },
+ {
+  "id": "v3kgbn3",
+  "texto": "Azul."
+ },
+ {
+  "id": "vbin02u",
+  "texto": "Amarela."
+ },
+ {
+  "id": "v15vvyg7",
+  "texto": "Vermelha."
+ },
+ {
+  "id": "v18bgjyw",
+  "texto": "Fica parada na mesma toca."
+ },
+ {
+  "id": "v9eiswk",
+  "texto": "Sai da sua toca e corre para outra."
+ },
+ {
+  "id": "v66zb4d",
+  "texto": "Senta no chão e espera."
+ },
+ {
+  "id": "v1fklkhc",
+  "texto": "As pernas."
+ },
+ {
+  "id": "vqjmcyh",
+  "texto": "As mãos."
+ },
+ {
+  "id": "v1mqjpw5",
+  "texto": "As orelhas."
+ },
+ {
+  "id": "vtai92o",
+  "texto": "Próxima pergunta!"
+ },
+ {
+  "id": "vx9908v",
+  "texto": "Vamos continuar!"
+ },
+ {
+  "id": "v1sutzym",
+  "texto": "Muito bem, siga em frente!"
+ },
+ {
+  "id": "v2hwrm3",
+  "texto": "Continue!"
+ },
+ {
+  "id": "v3ucx5",
+  "texto": "Escreva o seu nome para começar."
+ },
+ {
+  "id": "vfshoqt",
+  "texto": "Escolha a sua turma."
+ },
+ {
+  "id": "v1m44h33",
+  "texto": "Escolha o seu personagem."
+ },
+ {
+  "id": "vtr6zqr",
+  "texto": "Prontinho! Você terminou a prova. O Léo gostou muito de treinar com você. Parabéns!"
+ }
+]
